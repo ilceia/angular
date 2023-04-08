@@ -1,0 +1,8 @@
+main{
+    margin-top: 50px;
+    min-height:100vh;/*altura total do viewport*/
+}
+img{
+    width:20%; 
+    float: left;
+}
